@@ -1,14 +1,14 @@
 ##Class with different claculations
 
 class Calculations:
-    def addition (self, x, y):
-        return x + y
+    def addition (self, num1, num2):
+        return num1 + num2
 
-    def subtraction (self, x, y):
-        return x - y
+    def subtraction (self, num1, num2):
+        return num1 - num2
 
-    def multiplication (self, x, y):
-        return x * y
+    def multiplication (self, num1, num2):
+        return num1 * num2
 
-    def division (self, x, y):
-        return x / y
+    def division (self, num1, num2):
+        return num1 / num2
