@@ -1,3 +1,4 @@
+##Class with different claculations
 
 class Calculations:
     def addition (self, x, y):
